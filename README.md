@@ -7,11 +7,11 @@
 **Install**:
 
 ```bash
-$ yarn add --dev @rscircus/prettier-config
+$ yarn add --dev rscircus-prettier-config
 ```
 or
 ```bash
-$ npm install --save-dev @rscircus/prettier-config
+$ npm install --save-dev rscircus-prettier-config
 ```
 
 **To use it in your project, edit your `package.json`**:
@@ -19,6 +19,6 @@ $ npm install --save-dev @rscircus/prettier-config
 ```jsonc
 {
   // ...
-  "prettier": "@rscircus/prettier-config"
+  "prettier": "rscircus-prettier-config"
 }
 ```
