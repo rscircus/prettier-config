@@ -1,6 +1,6 @@
 {
   "name": "rscircus-prettier-config",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "My personal Prettier config",
   "main": "index.json",
   "repository": "git@github.com:rscircus/prettier-config.git",
